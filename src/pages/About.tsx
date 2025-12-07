@@ -8,7 +8,7 @@ export default function About() {
       image: 'https://images.pexels.com/photos/2102934/pexels-photo-2102934.jpeg?auto=compress&cs=tinysrgb&w=600',
     },
     {
-      name: 'Sara Ali',
+      name: 'Saad Ali',
       role: 'Pastry Chef',
       image: 'https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600',
     },
